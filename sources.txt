@@ -1,4 +1,4 @@
 naive_bayes_trainer.py based on https://github.com/nkostopoulos/StochasticsLabPublic/tree/master/lab8/naive_bayes.py
 training-testing files from : https://github.com/nkostopoulos/StochasticsLabPublic/tree/master/lab8
 top 100k testing names from : https://www.domcop.com/top-10-million-domains
-4 million names created with the following DGAs (from https://github.com/baderj/domain_generation_algorithms) : corebot, morenodownloader, newgoz, reconyc, qadars
+4 million invalid names created with the following DGAs (from https://github.com/baderj/domain_generation_algorithms) : corebot, morenodownloader, newgoz, reconyc, qadars. Uploaded first 100k
